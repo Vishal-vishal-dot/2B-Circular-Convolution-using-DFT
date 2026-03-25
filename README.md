@@ -52,7 +52,8 @@ ylabel('amplitude');
 title('circular convolution');
 ```
 ### CALCULATIONS:
-![Circular convolution](https://github.com/user-attachments/assets/38fb998e-353c-4e80-8a68-e04936a40809)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/4b178d8d-b49d-43fe-a9a5-124cafcea641" />
+
 
 ### SAMPLE OUTPUT:
 <img width="761" height="715" alt="Circular Convolution" src="https://github.com/user-attachments/assets/022d0187-d3ca-429f-a043-cb9445896e48" />
